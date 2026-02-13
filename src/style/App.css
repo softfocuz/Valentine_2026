@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: #fff0f5;
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  border: 2px solid #ff69b4;
+  border-radius: 10px;
+  background-color: #ffe6f0;
+}
+
+input {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ff69b4;
+}
+
+button {
+  padding: 10px;
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
